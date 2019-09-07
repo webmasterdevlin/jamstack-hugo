@@ -175,7 +175,7 @@ canonifyurls = true
   # Custom CSS. Put here your custom CSS files. They are loaded after the theme CSS;
   # they have to be referred from static root. Example
    [[params.customCSS]]
-     href = "https://objective-darwin-b47488.netlify.com/styles/main.css"
+     href = "https://objective-darwin-b47488.netlify.com/css/style-twzjdbqhmnnacqs0pwwdzcdbt8yhv8giawvjqjmyfoqnvazl0dalmnhdkvp7.min.css"
 
   # Custom JS. Put here your custom JS files. They are loaded after the theme JS;
   # they have to be referred from static root. Example
