@@ -85,10 +85,10 @@ canonifyurls = true
   url = "https://github.com/webmasterdevlin"
 [[menu.links]]
   weight = 2
-  identifier = "stackoverflow"
-  name = "Stack Overflow"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-stack-overflow\"></i>"
-  url = "https://stackoverflow.com/users/6845137/devlin-duldulao"
+  identifier = "twitter"
+  name = "Twitter"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-twitter\"></i>"
+  url = "https://twitter.com/DevlinDuldulao"
 
 [[menu.misc]]
   weight = 1
