@@ -1,5 +1,5 @@
 #A Jamstack Demo using Hugo and Netlify
-domain: https://objective-darwin-b47488.netlify.com
+domain: https://devlinduldulao-jamstack.netlify.com/
 
 ---
 # setting up
